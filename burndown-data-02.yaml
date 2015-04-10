@@ -1,3 +1,4 @@
+---
 meta:
   board_id: tM5tFlxs
   sprint: 2
@@ -13,3 +14,12 @@ days:
   tasks:
     total: 50
     open: 35
+- date: '2015-04-09'
+  story_points:
+    total: 48.0
+    open: 45.0
+  tasks:
+    total: 55
+    open: 31
+  tasks_extra:
+    done: 1
