@@ -148,3 +148,14 @@ days:
     done: 30.0
   tasks_extra:
     done: 30
+- date: '2015-06-09'
+  story_points:
+    total: 60.0
+    open: 9.0
+  tasks:
+    total: 82
+    open: 9
+  story_points_extra:
+    done: 38.0
+  tasks_extra:
+    done: 33
