@@ -21,3 +21,10 @@ days:
   tasks:
     total: 23
     open: 18
+- date: '2015-06-16'
+  story_points:
+    total: 24.0
+    open: 24.0
+  tasks:
+    total: 27
+    open: 14
