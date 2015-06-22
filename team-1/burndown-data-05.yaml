@@ -79,11 +79,22 @@ days:
 - date: '2015-06-19'
   story_points:
     total: 23.0
-    open: 19.0
+    open: 17.0
   tasks:
-    total: 30
+    total: 31
     open: 13
   story_points_extra:
-    done: 3.0
+    done: 5.0
   tasks_extra:
-    done: 10
+    done: 13
+- date: '2015-06-22'
+  story_points:
+    total: 25.0
+    open: 9.0
+  tasks:
+    total: 32
+    open: 12
+  story_points_extra:
+    done: 8.0
+  tasks_extra:
+    done: 15
