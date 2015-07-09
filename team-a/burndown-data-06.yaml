@@ -78,3 +78,47 @@ days:
     done: 7.0
   tasks_extra:
     done: 20
+- date: '2015-07-03'
+  story_points:
+    total: 33.0
+    open: 16.0
+  tasks:
+    total: 34
+    open: 8
+  story_points_extra:
+    done: 7.0
+  tasks_extra:
+    done: 20
+- date: '2015-07-06'
+  story_points:
+    total: 33.0
+    open: 5.0
+  tasks:
+    total: 34
+    open: 3
+  story_points_extra:
+    done: 7.0
+  tasks_extra:
+    done: 24
+- date: '2015-07-07'
+  story_points:
+    total: 33.0
+    open: 5.0
+  tasks:
+    total: 34
+    open: 3
+  story_points_extra:
+    done: 8.0
+  tasks_extra:
+    done: 25
+- date: '2015-07-08'
+  story_points:
+    total: 33.0
+    open: 5.0
+  tasks:
+    total: 34
+    open: 3
+  story_points_extra:
+    done: 8.0
+  tasks_extra:
+    done: 26
