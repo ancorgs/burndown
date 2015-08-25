@@ -1,0 +1,29 @@
+---
+meta:
+  board_id: tM5tFlxs
+  sprint: 8
+  total_days: 15
+  weekend_lines:
+  - 3.5
+  - 8.5
+days:
+- date: '2015-08-24'
+  updated_at: '2015-08-24T10:57:53+02:00'
+  story_points:
+    total: 47.0
+    open: 38.0
+  tasks:
+    total: 52
+    open: 21
+  story_points_extra:
+    done: 5.0
+- date: '2015-08-25'
+  updated_at: '2015-08-25T16:59:13+02:00'
+  story_points:
+    total: 47.0
+    open: 35.0
+  tasks:
+    total: 54
+    open: 21
+  story_points_extra:
+    done: 5.0
