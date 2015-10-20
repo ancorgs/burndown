@@ -135,3 +135,27 @@ days:
     done: 14.0
   tasks_extra:
     done: 18
+- date: '2015-10-19'
+  updated_at: '2015-10-20T09:16:27+01:00'
+  story_points:
+    total: 35.0
+    open: 16.0
+  tasks:
+    total: 22
+    open: 8
+  story_points_extra:
+    done: 17.0
+  tasks_extra:
+    done: 18
+- date: '2015-10-20'
+  updated_at: '2015-10-20T09:16:27+01:00'
+  story_points:
+    total: 35.0
+    open: 16.0
+  tasks:
+    total: 22
+    open: 8
+  story_points_extra:
+    done: 17.0
+  tasks_extra:
+    done: 18
