@@ -28,3 +28,13 @@ days:
     open: 16
   tasks_extra:
     done: 6
+- date: '2015-10-26'
+  updated_at: '2015-10-27T06:03:50+00:00'
+  story_points:
+    total: 61.0
+    open: 56.0
+  tasks:
+    total: 30
+    open: 16
+  tasks_extra:
+    done: 6
