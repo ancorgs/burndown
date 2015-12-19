@@ -2,7 +2,7 @@
 meta:
   board_id: kEAc7bFf
   sprint: 13
-  total_days: 15
+  total_days: 10
   weekend_lines:
   - 3.5
   - 8.5
@@ -60,6 +60,18 @@ days:
     done: 3
 - date: '2015-12-16'
   updated_at: '2015-12-17T07:13:41+00:00'
+  story_points:
+    total: 39.0
+    open: 21.0
+  tasks:
+    total: 12
+    open: 6
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 11
+- date: '2015-12-17'
+  updated_at: '2015-12-18T08:12:18+00:00'
   story_points:
     total: 39.0
     open: 21.0
