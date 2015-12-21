@@ -6,7 +6,6 @@ meta:
   weekend_lines:
   - 3.5
   - 8.5
-  - 13.5
 days:
 - date: '2015-12-02'
   updated_at: '2015-12-04T06:50:46+00:00'
@@ -82,3 +81,27 @@ days:
     done: 3.0
   tasks_extra:
     done: 11
+- date: '2015-12-18'
+  updated_at: '2015-12-18T08:12:18+00:00'
+  story_points:
+    total: 39.0
+    open: 21.0
+  tasks:
+    total: 12
+    open: 6
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 11
+- date: '2015-12-21'
+  updated_at: '2015-12-21T23:52:11+00:00'
+  story_points:
+    total: 39.0
+    open: 16.0
+  tasks:
+    total: 12
+    open: 1
+  story_points_extra:
+    done: 8.0
+  tasks_extra:
+    done: 15
