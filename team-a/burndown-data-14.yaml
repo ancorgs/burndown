@@ -86,3 +86,23 @@ days:
     open: 16
   story_points_extra:
     done: 4.0
+- date: '2016-01-22'
+  updated_at: '2016-01-25T07:51:23+00:00'
+  story_points:
+    total: 54.0
+    open: 51.0
+  tasks:
+    total: 24
+    open: 15
+  story_points_extra:
+    done: 4.0
+- date: '2016-01-25'
+  updated_at: '2016-01-26T05:44:20+00:00'
+  story_points:
+    total: 54.0
+    open: 48.0
+  tasks:
+    total: 24
+    open: 14
+  story_points_extra:
+    done: 4.0
