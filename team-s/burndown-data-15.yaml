@@ -128,3 +128,41 @@ days:
     open: 24
   tasks_extra:
     done: 2
+- date: '2016-02-19'
+  updated_at: '2016-02-22T13:10:34+00:00'
+  story_points:
+    total: 29.0
+    open: 18.0
+  tasks:
+    total: 55
+    open: 20
+  tasks_extra:
+    done: 2
+- date: '2016-02-22'
+  updated_at: '2016-02-23T00:50:42+00:00'
+  story_points:
+    total: 29.0
+    open: 18.0
+  tasks:
+    total: 57
+    open: 20
+  tasks_extra:
+    done: 2
+- date: '2016-02-23'
+  updated_at: '2016-02-23T08:59:14+00:00'
+  story_points:
+    total: 29.0
+    open: 13.0
+  tasks:
+    total: 57
+    open: 19
+  tasks_extra:
+    done: 2
+- date: '2016-02-24'
+  updated_at: '2016-02-24T14:42:46+00:00'
+  story_points:
+    total: 39.0
+    open: 39.0
+  tasks:
+    total: 61
+    open: 46
