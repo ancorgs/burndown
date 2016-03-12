@@ -88,3 +88,39 @@ days:
   tasks:
     total: 80
     open: 15
+- date: '2016-03-09'
+  updated_at: '2016-03-09T19:21:21+00:00'
+  story_points:
+    total: 39.0
+    open: 22.0
+  tasks:
+    total: 80
+    open: 11
+  story_points_extra:
+    done: 1.0
+  tasks_extra:
+    done: 3
+- date: '2016-03-10'
+  updated_at: '2016-03-09T19:21:21+00:00'
+  story_points:
+    total: 39.0
+    open: 22.0
+  tasks:
+    total: 80
+    open: 11
+  story_points_extra:
+    done: 1.0
+  tasks_extra:
+    done: 3
+- date: '2016-03-11'
+  updated_at: '2016-03-12T15:28:14+00:00'
+  story_points:
+    total: 39.0
+    open: 16.0
+  tasks:
+    total: 88
+    open: 16
+  story_points_extra:
+    done: 2.0
+  tasks_extra:
+    done: 3
