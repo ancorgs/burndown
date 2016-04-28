@@ -140,3 +140,15 @@ days:
     done: 1.0
   tasks_extra:
     done: 3
+- date: '2016-04-26'
+  updated_at: '2016-04-27T10:20:25+01:00'
+  story_points:
+    total: 44.0
+    open: 24.0
+  tasks:
+    total: 66
+    open: 10
+  story_points_extra:
+    done: 1.0
+  tasks_extra:
+    done: 4
