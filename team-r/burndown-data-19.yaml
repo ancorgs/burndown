@@ -9,7 +9,15 @@ meta:
   - 13.5
 days:
 - date: '2016-04-29'
-  updated_at: '2016-05-03T08:56:36+01:00'
+  updated_at: '2016-05-03t08:56:36+01:00'
+  story_points:
+    total: 61.0
+    open: 61.0
+  tasks:
+    total: 82
+    open: 63
+- date: '2016-05-02'
+  updated_at: '2016-05-03t08:56:36+01:00'
   story_points:
     total: 61.0
     open: 61.0
@@ -64,3 +72,19 @@ days:
   tasks:
     total: 92
     open: 62
+- date: '2016-05-11'
+  updated_at: '2016-05-11T16:59:04+01:00'
+  story_points:
+    total: 61.0
+    open: 42.0
+  tasks:
+    total: 97
+    open: 55
+- date: '2016-05-12'
+  updated_at: '2016-05-13T10:42:09+01:00'
+  story_points:
+    total: 61.0
+    open: 39.0
+  tasks:
+    total: 99
+    open: 45
