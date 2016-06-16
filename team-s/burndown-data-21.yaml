@@ -1,0 +1,28 @@
+---
+meta:
+  board_id: kEAc7bFf
+  sprint: 21
+  total_days: 6
+  weekend_lines:
+  - 3.5
+days:
+- date: '2016-06-14'
+  updated_at: '2016-06-15T15:07:52+01:00'
+  story_points:
+    total: 16.0
+    open: 16.0
+  tasks:
+    total: 28
+    open: 18
+- date: '2016-06-15'
+  updated_at: '2016-06-16T08:08:40+01:00'
+  story_points:
+    total: 16.0
+    open: 16.0
+  tasks:
+    total: 28
+    open: 18
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 7
