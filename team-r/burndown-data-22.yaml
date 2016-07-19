@@ -8,7 +8,7 @@ meta:
   - 7.5
   - 12.5
 days:
-- date: '2016-07-08'
+- date: '2016-07-07'
   updated_at: '2016-07-08T16:21:17+01:00'
   story_points:
     total: 51.0
@@ -48,3 +48,31 @@ days:
   tasks:
     total: 60
     open: 33
+- date: '2016-07-14'
+  updated_at: '2016-07-13T16:33:45+01:00'
+  story_points:
+    total: 51.0
+    open: 48.0
+  tasks:
+    total: 60
+    open: 33
+- date: '2016-07-15'
+  updated_at: '2016-07-19T09:12:10+01:00'
+  story_points:
+    total: 51.0
+    open: 37.0
+  tasks:
+    total: 60
+    open: 26
+  tasks_extra:
+    done: 14
+- date: '2016-07-18'
+  updated_at: '2016-07-19T09:12:10+01:00'
+  story_points:
+    total: 51.0
+    open: 37.0
+  tasks:
+    total: 60
+    open: 26
+  tasks_extra:
+    done: 14
