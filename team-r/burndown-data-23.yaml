@@ -35,12 +35,14 @@ days:
   tasks_extra:
     done: 2
 - date: '2016-08-01'
-  updated_at: '2016-08-01T08:23:32+01:00'
+  updated_at: '2016-08-01T17:04:40+01:00'
   story_points:
     total: 41.0
-    open: 34.0
+    open: 29.0
   tasks:
-    total: 48
+    total: 49
     open: 17
+  story_points_extra:
+    done: 1.0
   tasks_extra:
     done: 2
