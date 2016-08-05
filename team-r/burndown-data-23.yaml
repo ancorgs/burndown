@@ -58,7 +58,7 @@ days:
     done: 1.0
   tasks_extra:
     done: 2
-- date: '2016-08-02'
+- date: '2016-08-03'
   updated_at: '2016-08-04T14:40:53+01:00'
   story_points:
     total: 41.0
@@ -70,3 +70,27 @@ days:
     done: 2.0
   tasks_extra:
     done: 2
+- date: '2016-08-04'
+  updated_at: '2016-08-05T16:16:05+01:00'
+  story_points:
+    total: 41.0
+    open: 18.0
+  tasks:
+    total: 56
+    open: 7
+  story_points_extra:
+    done: 4.0
+  tasks_extra:
+    done: 6
+- date: '2016-08-05'
+  updated_at: '2016-08-05T16:16:05+01:00'
+  story_points:
+    total: 41.0
+    open: 18.0
+  tasks:
+    total: 56
+    open: 7
+  story_points_extra:
+    done: 4.0
+  tasks_extra:
+    done: 6
