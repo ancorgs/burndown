@@ -56,3 +56,35 @@ days:
   tasks:
     total: 40
     open: 22
+- date: '2016-09-15'
+  updated_at: '2016-09-15T09:38:53+01:00'
+  story_points:
+    total: 23.0
+    open: 20.0
+  tasks:
+    total: 40
+    open: 22
+- date: '2016-09-16'
+  updated_at: '2016-09-19T18:09:05+01:00'
+  story_points:
+    total: 23.0
+    open: 15.0
+  tasks:
+    total: 41
+    open: 7
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 3
+- date: '2016-09-19'
+  updated_at: '2016-09-19T18:09:05+01:00'
+  story_points:
+    total: 23.0
+    open: 15.0
+  tasks:
+    total: 41
+    open: 7
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 3
