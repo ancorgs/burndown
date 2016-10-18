@@ -104,3 +104,19 @@ days:
   tasks:
     total: 180
     open: 32
+- date: '2016-10-17'
+  updated_at: '2016-10-18T09:25:05+01:00'
+  story_points:
+    total: 77.0
+    open: 34.0
+  tasks:
+    total: 180
+    open: 32
+- date: '2016-10-18'
+  updated_at: '2016-10-18T09:26:06+01:00'
+  story_points:
+    total: 77.0
+    open: 16.0
+  tasks:
+    total: 196
+    open: 20
