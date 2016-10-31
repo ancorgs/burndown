@@ -48,3 +48,31 @@ days:
   tasks:
     total: 119
     open: 47
+- date: '2016-10-26'
+  updated_at: '2016-10-26T08:27:19+01:00'
+  story_points:
+    total: 55.0
+    open: 48.0
+  tasks:
+    total: 119
+    open: 47
+- date: '2016-10-27'
+  updated_at: '2016-10-31T08:35:44+00:00'
+  story_points:
+    total: 55.0
+    open: 45.0
+  tasks:
+    total: 146
+    open: 44
+  story_points_extra:
+    done: 3.0
+- date: '2016-10-28'
+  updated_at: '2016-10-31T08:35:44+00:00'
+  story_points:
+    total: 55.0
+    open: 45.0
+  tasks:
+    total: 146
+    open: 44
+  story_points_extra:
+    done: 3.0
