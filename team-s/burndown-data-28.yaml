@@ -64,3 +64,85 @@ days:
   tasks:
     total: 51
     open: 24
+- date: '2016-11-18'
+  updated_at: '2016-11-18T15:20:01+00:00'
+  story_points:
+    total: 38.0
+    open: 35.0
+  tasks:
+    total: 55
+    open: 25
+  tasks_extra:
+    done: 2
+- date: '2016-11-21'
+  updated_at: '2016-11-22T09:59:34+00:00'
+  story_points:
+    total: 38.0
+    open: 35.0
+  tasks:
+    total: 57
+    open: 26
+  tasks_extra:
+    done: 2
+- date: '2016-11-22'
+  updated_at: '2016-11-23T08:39:39+00:00'
+  story_points:
+    total: 38.0
+    open: 35.0
+  tasks:
+    total: 60
+    open: 19
+  tasks_extra:
+    done: 2
+- date: '2016-11-23'
+  updated_at: '2016-11-23T08:39:39+00:00'
+  story_points:
+    total: 38.0
+    open: 35.0
+  tasks:
+    total: 60
+    open: 19
+  tasks_extra:
+    done: 2
+- date: '2016-11-24'
+  updated_at: '2016-11-24T17:20:45+00:00'
+  story_points:
+    total: 38.0
+    open: 27.0
+  tasks:
+    total: 59
+    open: 13
+  tasks_extra:
+    done: 2
+- date: '2016-11-25'
+  updated_at: '2016-11-28T11:29:57+00:00'
+  story_points:
+    total: 38.0
+    open: 22.0
+  tasks:
+    total: 66
+    open: 15
+  tasks_extra:
+    done: 2
+- date: '2016-11-28'
+  updated_at: '2016-11-29T07:15:31+00:00'
+  story_points:
+    total: 38.0
+    open: 17.0
+  tasks:
+    total: 66
+    open: 11
+  tasks_extra:
+    done: 2
+- date: '2016-11-29'
+  updated_at: '2016-11-29T08:55:43+00:00'
+  story_points:
+    total: 38.0
+    open: 12.0
+  tasks:
+    total: 66
+    open: 10
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 3
