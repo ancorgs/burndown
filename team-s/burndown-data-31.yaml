@@ -64,3 +64,11 @@ days:
   tasks:
     total: 68
     open: 14
+- date: '2017-02-10'
+  updated_at: '2017-02-10T16:44:02+00:00'
+  story_points:
+    total: 27.0
+    open: 9.0
+  tasks:
+    total: 68
+    open: 12
