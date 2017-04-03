@@ -74,3 +74,23 @@ days:
     open: 44
   story_points_extra:
     done: 3.0
+- date: '2017-03-31'
+  updated_at: '2017-03-31T16:39:57+01:00'
+  story_points:
+    total: 44.0
+    open: 44.0
+  tasks:
+    total: 68
+    open: 44
+  story_points_extra:
+    done: 3.0
+- date: '2017-04-03'
+  updated_at: '2017-04-03T17:26:16+01:00'
+  story_points:
+    total: 46.0
+    open: 44.0
+  tasks:
+    total: 75
+    open: 41
+  story_points_extra:
+    done: 3.0
