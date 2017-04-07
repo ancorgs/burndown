@@ -131,13 +131,13 @@ days:
   tasks_extra:
     done: 1
 - date: '2017-04-07'
-  updated_at: '2017-04-07T09:06:56+01:00'
+  updated_at: '2017-04-07T16:19:21+01:00'
   story_points:
     total: 46.0
     open: 31.0
   tasks:
     total: 81
-    open: 35
+    open: 34
   story_points_extra:
     done: 4.0
   tasks_extra:
