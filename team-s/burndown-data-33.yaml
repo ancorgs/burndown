@@ -142,3 +142,27 @@ days:
     done: 4.0
   tasks_extra:
     done: 1
+- date: '2017-04-10'
+  updated_at: '2017-04-17T09:10:28+01:00'
+  story_points:
+    total: 46.0
+    open: 23.0
+  tasks:
+    total: 81
+    open: 34
+  story_points_extra:
+    done: 4.0
+  tasks_extra:
+    done: 1
+- date: '2017-04-11'
+  updated_at: '2017-04-17T09:10:28+01:00'
+  story_points:
+    total: 46.0
+    open: 23.0
+  tasks:
+    total: 81
+    open: 34
+  story_points_extra:
+    done: 4.0
+  tasks_extra:
+    done: 1
