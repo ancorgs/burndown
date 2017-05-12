@@ -56,3 +56,15 @@ days:
   tasks:
     total: 84
     open: 37
+- date: '2017-05-11'
+  updated_at: '2017-05-12T08:19:58+01:00'
+  story_points:
+    total: 53.0
+    open: 45.0
+  tasks:
+    total: 84
+    open: 37
+  story_points_extra:
+    done: 1.0
+  tasks_extra:
+    done: 1
