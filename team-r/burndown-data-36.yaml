@@ -1,0 +1,94 @@
+---
+meta:
+  board_id: tM5tFlxs
+  sprint: 36
+  total_days: 15
+  weekend_lines:
+  - 3.5
+  - 8.5
+  - 13.5
+days:
+- date: '2017-05-24'
+  updated_at: '2017-06-02T08:43:57+01:00'
+  story_points:
+    total: 57.0
+    open: 57.0
+  tasks:
+    total: 87
+    open: 50
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 0
+- date: '2017-05-25'
+  updated_at: '2017-06-02T08:43:57+01:00'
+  story_points:
+    total: 57.0
+    open: 57.0
+  tasks:
+    total: 87
+    open: 50
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 0
+- date: '2017-05-26'
+  updated_at: '2017-06-02T08:43:57+01:00'
+  story_points:
+    total: 57.0
+    open: 57.0
+  tasks:
+    total: 87
+    open: 50
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 0
+- date: '2017-05-29'
+  updated_at: '2017-06-02T08:43:57+01:00'
+  story_points:
+    total: 57.0
+    open: 57.0
+  tasks:
+    total: 87
+    open: 50
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 0
+- date: '2017-05-30'
+  updated_at: '2017-06-02T08:43:57+01:00'
+  story_points:
+    total: 57.0
+    open: 57.0
+  tasks:
+    total: 87
+    open: 50
+  story_points_extra:
+    done: 9.0
+  tasks_extra:
+    done: 0
+- date: '2017-05-31'
+  updated_at: '2017-06-02T08:43:57+01:00'
+  story_points:
+    total: 57.0
+    open: 57.0
+  tasks:
+    total: 87
+    open: 50
+  story_points_extra:
+    done: 10.0
+  tasks_extra:
+    done: 0
+- date: '2017-06-01'
+  updated_at: '2017-06-02T08:43:57+01:00'
+  story_points:
+    total: 57.0
+    open: 34.0
+  tasks:
+    total: 87
+    open: 37
+  story_points_extra:
+    done: 10.0
+  tasks_extra:
+    done: 0
