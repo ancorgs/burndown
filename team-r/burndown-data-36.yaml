@@ -102,3 +102,39 @@ days:
     done: 14.0
   tasks_extra:
     done: 4
+- date: '2017-06-06'
+  updated_at: '2017-06-06T10:27:46+01:00'
+  story_points:
+    total: 57.0
+    open: 34.0
+  tasks:
+    total: 171
+    open: 114
+  story_points_extra:
+    done: 14.0
+  tasks_extra:
+    done: 4
+- date: '2017-06-07'
+  updated_at: '2017-06-09T08:36:37+01:00'
+  story_points:
+    total: 57.0
+    open: 28.0
+  tasks:
+    total: 172
+    open: 27
+  story_points_extra:
+    done: 15.0
+  tasks_extra:
+    done: 8
+- date: '2017-06-08'
+  updated_at: '2017-06-09T08:36:37+01:00'
+  story_points:
+    total: 57.0
+    open: 28.0
+  tasks:
+    total: 172
+    open: 27
+  story_points_extra:
+    done: 15.0
+  tasks_extra:
+    done: 8

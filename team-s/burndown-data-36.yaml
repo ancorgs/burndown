@@ -80,3 +80,35 @@ days:
   tasks:
     total: 76
     open: 40
+- date: '2017-06-06'
+  updated_at: '2017-06-06T10:27:53+01:00'
+  story_points:
+    total: 36.0
+    open: 36.0
+  tasks:
+    total: 76
+    open: 40
+- date: '2017-06-07'
+  updated_at: '2017-06-09T08:46:34+01:00'
+  story_points:
+    total: 36.0
+    open: 34.0
+  tasks:
+    total: 83
+    open: 29
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 4
+- date: '2017-06-08'
+  updated_at: '2017-06-09T08:46:34+01:00'
+  story_points:
+    total: 36.0
+    open: 34.0
+  tasks:
+    total: 83
+    open: 29
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 4
