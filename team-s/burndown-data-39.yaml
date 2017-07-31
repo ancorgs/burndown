@@ -111,3 +111,15 @@ days:
     done: 3.0
   tasks_extra:
     done: 22
+- date: '2017-07-26'
+  updated_at: '2017-07-26T08:47:16+01:00'
+  story_points:
+    total: 15.0
+    open: 2.0
+  tasks:
+    total: 90
+    open: 24
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 22
