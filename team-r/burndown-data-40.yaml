@@ -31,3 +31,19 @@ days:
   tasks:
     total: 52
     open: 28
+- date: '2017-07-31'
+  updated_at: '2017-07-31T17:19:50+02:00'
+  story_points:
+    total: 35.0
+    open: 21.0
+  tasks:
+    total: 53
+    open: 26
+- date: '2017-08-01'
+  updated_at: '2017-08-01T14:29:11+02:00'
+  story_points:
+    total: 35.0
+    open: 11.0
+  tasks:
+    total: 53
+    open: 20
