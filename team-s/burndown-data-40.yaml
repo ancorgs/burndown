@@ -77,3 +77,23 @@ days:
     open: 14
   tasks_extra:
     done: 8
+- date: '2017-08-07'
+  updated_at: '2017-08-07T17:24:11+02:00'
+  story_points:
+    total: 15.0
+    open: 10.0
+  tasks:
+    total: 45
+    open: 14
+  tasks_extra:
+    done: 8
+- date: '2017-08-08'
+  updated_at: '2017-08-08T13:19:32+02:00'
+  story_points:
+    total: 15.0
+    open: 7.0
+  tasks:
+    total: 47
+    open: 15
+  tasks_extra:
+    done: 14
