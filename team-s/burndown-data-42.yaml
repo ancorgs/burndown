@@ -39,3 +39,35 @@ days:
   tasks:
     total: 86
     open: 32
+- date: '2017-08-29'
+  updated_at: '2017-08-29T09:18:55+01:00'
+  story_points:
+    total: 35.0
+    open: 27.0
+  tasks:
+    total: 86
+    open: 32
+- date: '2017-08-30'
+  updated_at: '2017-08-31T16:32:44+01:00'
+  story_points:
+    total: 35.0
+    open: 24.0
+  tasks:
+    total: 106
+    open: 34
+- date: '2017-08-31'
+  updated_at: '2017-08-31T16:32:44+01:00'
+  story_points:
+    total: 35.0
+    open: 24.0
+  tasks:
+    total: 106
+    open: 34
+- date: '2017-09-01'
+  updated_at: '2017-09-04T11:57:45+01:00'
+  story_points:
+    total: 35.0
+    open: 24.0
+  tasks:
+    total: 106
+    open: 34
