@@ -55,3 +55,19 @@ days:
   tasks:
     total: 59
     open: 23
+- date: '2017-09-14'
+  updated_at: '2017-09-13T21:37:06+01:00'
+  story_points:
+    total: 23.0
+    open: 21.0
+  tasks:
+    total: 59
+    open: 23
+- date: '2017-09-15'
+  updated_at: '2017-09-18T10:18:33+01:00'
+  story_points:
+    total: 23.0
+    open: 21.0
+  tasks:
+    total: 59
+    open: 20
