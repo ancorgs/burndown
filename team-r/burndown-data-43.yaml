@@ -85,3 +85,23 @@ days:
     open: 35
   story_points_extra:
     done: 7.0
+- date: '2017-09-18'
+  updated_at: '2017-09-19T07:22:25+01:00'
+  story_points:
+    total: 42.0
+    open: 18.0
+  tasks:
+    total: 74
+    open: 23
+  story_points_extra:
+    done: 10.0
+- date: '2017-09-19'
+  updated_at: '2017-09-19T12:25:12+01:00'
+  story_points:
+    total: 42.0
+    open: 13.0
+  tasks:
+    total: 75
+    open: 18
+  story_points_extra:
+    done: 10.0
