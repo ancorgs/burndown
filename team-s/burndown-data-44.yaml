@@ -7,7 +7,7 @@ meta:
   - 3.5
   - 8.5
 days:
-- date: '2017-09-22'
+- date: '2017-09-20'
   updated_at: '2017-09-22T17:11:53+01:00'
   story_points:
     total: 28.0
@@ -15,7 +15,7 @@ days:
   tasks:
     total: 63
     open: 27
-- date: '2017-09-22'
+- date: '2017-09-21'
   updated_at: '2017-09-22T17:11:53+01:00'
   story_points:
     total: 28.0
@@ -47,3 +47,27 @@ days:
   tasks:
     total: 76
     open: 21
+- date: '2017-09-27'
+  updated_at: '2017-10-02T11:16:47+01:00'
+  story_points:
+    total: 28.0
+    open: 18.0
+  tasks:
+    total: 86
+    open: 30
+- date: '2017-09-28'
+  updated_at: '2017-10-02T11:16:47+01:00'
+  story_points:
+    total: 28.0
+    open: 18.0
+  tasks:
+    total: 86
+    open: 25
+- date: '2017-09-29'
+  updated_at: '2017-10-02T11:16:47+01:00'
+  story_points:
+    total: 28.0
+    open: 13.0
+  tasks:
+    total: 86
+    open: 17
