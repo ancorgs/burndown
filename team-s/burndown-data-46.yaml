@@ -31,3 +31,43 @@ days:
   tasks:
     total: 75
     open: 51
+- date: '2017-10-23'
+  updated_at: '2017-10-20T16:35:11+01:00'
+  story_points:
+    total: 29.0
+    open: 28.0
+  tasks:
+    total: 75
+    open: 51
+- date: '2017-10-24'
+  updated_at: '2017-10-20T16:35:11+01:00'
+  story_points:
+    total: 29.0
+    open: 23.0
+  tasks:
+    total: 75
+    open: 51
+- date: '2017-10-25'
+  updated_at: '2017-10-30T08:45:57+00:00'
+  story_points:
+    total: 29.0
+    open: 18.0
+  tasks:
+    total: 109
+    open: 37
+- date: '2017-10-26'
+  updated_at: '2017-10-30T08:45:57+00:00'
+  story_points:
+    total: 29.0
+    open: 13.0
+  tasks:
+    total: 109
+    open: 33
+- date: '2017-10-27'
+  updated_at: '2017-10-30T08:45:57+00:00'
+  story_points:
+    total: 29.0
+    open: 10.0
+  tasks:
+    total: 109
+    open: 27
