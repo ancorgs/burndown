@@ -1,11 +1,12 @@
 ---
 meta:
   board_id: kEAc7bFf
-  sprint: 45
-  total_days: 10
+  sprint: 46
+  total_days: 16
   weekend_lines:
   - 3.5
   - 8.5
+  - 13.5
 days:
 - date: '2017-10-18'
   updated_at: '2017-10-20T16:35:11+01:00'
@@ -71,3 +72,35 @@ days:
   tasks:
     total: 109
     open: 27
+- date: '2017-10-30'
+  updated_at: '2017-10-30T08:45:57+00:00'
+  story_points:
+    total: 29.0
+    open: 10.0
+  tasks:
+    total: 109
+    open: 27
+- date: '2017-10-31'
+  updated_at: '2017-10-30T08:45:57+00:00'
+  story_points:
+    total: 29.0
+    open: 10.0
+  tasks:
+    total: 109
+    open: 27
+- date: '2017-11-02'
+  updated_at: '2017-11-03T11:59:09+00:00'
+  story_points:
+    total: 35.0
+    open: 13.0
+  tasks:
+    total: 124
+    open: 28
+- date: '2017-11-03'
+  updated_at: '2017-11-03T17:24:31+00:00'
+  story_points:
+    total: 35.0
+    open: 13.0
+  tasks:
+    total: 124
+    open: 28
