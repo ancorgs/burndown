@@ -56,3 +56,21 @@ days:
   tasks:
     total: 59
     open: 28
+- date: '2017-11-28'
+  updated_at: '2017-11-27T16:26:31+00:00'
+  story_points:
+    total: 20.0
+    open: 15.0
+  tasks:
+    total: 59
+    open: 28
+- date: '2017-11-29'
+  updated_at: '2017-11-30T12:01:05+00:00'
+  story_points:
+    total: 20.0
+    open: 11.0
+  tasks:
+    total: 79
+    open: 32
+  tasks_extra:
+    done: 1
