@@ -97,3 +97,27 @@ days:
     done: 6.0
   tasks_extra:
     done: 39
+- date: '2017-12-30'
+  updated_at: '2017-12-04T09:02:02+00:00'
+  story_points:
+    total: 31.0
+    open: 20.0
+  tasks:
+    total: 41
+    open: 6
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 39
+- date: '2017-12-01'
+  updated_at: '2017-12-04T09:02:02+00:00'
+  story_points:
+    total: 31.0
+    open: 20.0
+  tasks:
+    total: 41
+    open: 6
+  story_points_extra:
+    done: 6.0
+  tasks_extra:
+    done: 39
