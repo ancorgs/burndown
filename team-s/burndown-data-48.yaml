@@ -18,3 +18,27 @@ days:
     open: 32
   story_points_extra:
     done: 3.0
+- date: '2017-12-06'
+  updated_at: '2017-12-07T11:25:02+00:00'
+  story_points:
+    total: 28.0
+    open: 28.0
+  tasks:
+    total: 44
+    open: 29
+- date: '2017-12-07'
+  updated_at: '2017-12-07T11:25:02+00:00'
+  story_points:
+    total: 28.0
+    open: 28.0
+  tasks:
+    total: 44
+    open: 29
+- date: '2017-12-08'
+  updated_at: '2017-12-11T12:27:13+00:00'
+  story_points:
+    total: 28.0
+    open: 28.0
+  tasks:
+    total: 44
+    open: 28
