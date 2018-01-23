@@ -57,3 +57,49 @@ days:
     open: 42
   tasks_extra:
     done: 4
+- date: '2018-01-16'
+  updated_at: '2018-01-16T10:16:27+00:00'
+  story_points:
+    total: 39.0
+    open: 38.0
+  tasks:
+    total: 57
+    open: 42
+  tasks_extra:
+    done: 4
+- date: '2018-01-17'
+  updated_at: '2018-01-19T08:48:56+00:00'
+  story_points:
+    total: 39.0
+    open: 38.0
+  tasks:
+    total: 60
+    open: 39
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 4
+- date: '2018-01-18'
+  updated_at: '2018-01-19T08:48:56+00:00'
+  story_points:
+    total: 39.0
+    open: 38.0
+  tasks:
+    total: 60
+    open: 39
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 4
+- date: '2018-01-19'
+  updated_at: '2018-01-22T09:40:12+00:00'
+  story_points:
+    total: 39.0
+    open: 38.0
+  tasks:
+    total: 60
+    open: 38
+  story_points_extra:
+    done: 3.0
+  tasks_extra:
+    done: 4
