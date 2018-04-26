@@ -103,3 +103,15 @@ days:
     done: 8.0
   tasks_extra:
     done: 13
+- date: '2018-04-16'
+  updated_at: '2018-04-16T22:16:59+01:00'
+  story_points:
+    total: 44.0
+    open: 11.0
+  tasks:
+    total: 101
+    open: 11
+  story_points_extra:
+    done: 8.0
+  tasks_extra:
+    done: 13
