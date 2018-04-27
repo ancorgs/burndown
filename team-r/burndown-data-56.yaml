@@ -15,8 +15,6 @@ days:
   tasks:
     total: 75
     open: 42
-  story_points_extra:
-    done: 0
   tasks_extra:
     done: 5
 - date: '2018-04-19'
@@ -27,8 +25,6 @@ days:
   tasks:
     total: 75
     open: 35
-  story_points_extra:
-    done: 0
   tasks_extra:
     done: 5
 - date: '2018-04-20'
@@ -39,8 +35,6 @@ days:
   tasks:
     total: 75
     open: 33
-  story_points_extra:
-    done: 0
   tasks_extra:
     done: 5
 - date: '2018-04-23'
@@ -79,3 +73,27 @@ days:
     done: 4.0
   tasks_extra:
     done: 8
+- date: '2018-04-26'
+  updated_at: '2018-04-27T17:09:24+01:00'
+  story_points:
+    total: 47.0
+    open: 8.0
+  tasks:
+    total: 75
+    open: 10
+  story_points_extra:
+    done: 7.0
+  tasks_extra:
+    done: 11
+- date: '2018-04-27'
+  updated_at: '2018-04-27T17:09:24+01:00'
+  story_points:
+    total: 47.0
+    open: 8.0
+  tasks:
+    total: 75
+    open: 10
+  story_points_extra:
+    done: 7.0
+  tasks_extra:
+    done: 11
