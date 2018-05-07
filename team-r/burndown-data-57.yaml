@@ -15,3 +15,27 @@ days:
   tasks:
     total: 50
     open: 39
+- date: '2018-05-03'
+  updated_at: '2018-05-07T07:55:55+01:00'
+  story_points:
+    total: 41.0
+    open: 31.0
+  tasks:
+    total: 52
+    open: 33
+- date: '2018-05-04'
+  updated_at: '2018-05-07T07:55:55+01:00'
+  story_points:
+    total: 41.0
+    open: 31.0
+  tasks:
+    total: 52
+    open: 33
+- date: '2018-05-07'
+  updated_at: '2018-05-07T07:58:59+01:00'
+  story_points:
+    total: 41.0
+    open: 31.0
+  tasks:
+    total: 52
+    open: 33
